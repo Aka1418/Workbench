@@ -1,0 +1,18 @@
+.nav-item{
+    padding: 10px 12px 8px;
+}
+
+.container-1 img{
+   width: 49%;
+   height: 78vh;
+   border-radius: 15px;
+   padding: 18px 20px;
+   margin-right: 14%;
+
+}
+
+.text-1{
+    margin-left: 62%;
+    position: relative;
+    align-items: center;
+}
