@@ -43,7 +43,7 @@ xmlReq.onreadystatechange = function(){
         `;
 
     }
-}
+};
 
 
 
