@@ -33,7 +33,7 @@ xmlReq.onreadystatechange = function(){
             return note[index].getElementsByTagName(id)[0].childNodes[0].nodeValue;
         }
 
-        box.innerHTML += `
+        notes.innerHTML += `
             <ul>
                 <li><b>To:</b> ${a("to", i)}</li>
                 <li><b>From:</b> ${a("from", i)}</li>
