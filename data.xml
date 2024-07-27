@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<students>
+
+    <student>
+        <name>Mohibullah</name>
+        <fathername>Nadeem Ashraf</fathername>
+        <class>11</class>
+        <age>17</age>
+        <gender>Male</gender>
+    </student>
+
+
+
+    <student>
+        <name>Mahad</name>
+        <fathername> Asad</fathername>
+        <class>11</class>
+        <age>18</age>
+        <gender>Male</gender>
+    </student>
+
+    <student>
+        <name>Afra</name>
+        <fathername>Siddiqui</fathername>
+        <class>11</class>
+        <age>19</age>
+        <gender>Female</gender>
+    </student>
+
+    <student>
+    <name>Hussain</name>
+    <fathername>Nawaz</fathername>
+    <class>11</class>
+    <age>24</age>
+    <gender>Male</gender>
+    </student>
+
+    <student>
+    <name>Jafar</name>
+    <fathername>Khanzada</fathername>
+    <class>11</class>
+    <age>22</age>
+    <gender>Male</gender>
+    </student>
+
+    <student>
+    <name>Kinza</name>
+    <fathername>Hashmi</fathername>
+    <class>11</class>
+    <age>24</age>
+    <gender>Female</gender>
+    </student>
+
+
+    <student>
+    <name>Babar</name>
+    <fathername>Azam Siddique</fathername>
+    <class>11</class>
+    <age>15</age>
+    <gender>Male</gender>
+    </student>
+
+    <student>
+    <name>Alizay</name>
+    <fathername>Zahid</fathername>
+    <class>11</class>
+    <age>20</age>
+    <gender>Female</gender>
+    </student>
+
+
+    <student>
+    <name>Areeba</name>
+    <fathername>Attique</fathername>
+    <class>11</class>
+    <age>27</age>
+    <gender>Female</gender>
+    </student>
+
+
+    <student>
+    <name>Faha</name>
+    <fathername>Siddiqui</fathername>
+    <class>11</class>
+    <age>20</age>
+    <gender>Female</gender>
+    </student>
+
+
+    <student>
+    <name>Musa</name>
+    <fathername>Siddiqui</fathername>
+    <class>11</class>
+    <age>20</age>
+    <gender>Male</gender>
+    </student>
+
+</students>
+<notes>
+<note>
+<to>mahad</to>
+<from>mohibullah</from>
+<heading>car</heading>
+<adress>gulshan-e-iqbal</adress>
+<message>It is a long established fact that a reader 
+will be distracted by the readable 
+content of a page 
+when looking at its layout. The point of using Lorem Ipsum is 
+that it has a more-or-less no</message>
+</note>
+
+<note>
+<to>mahad</to>
+<from>faridulaah</from>
+<heading>application</heading>
+<adress>salfia society</adress>
+<message>It is a long established fact that a reader 
+will be distracted by the readable 
+content of a page 
+when looking at its layout. The point of using Lorem Ipsum is 
+that it has a more-or-less no</message>
+</note>
+
+<note>
+<to>mahad</to>
+<from>ammar</from>
+<heading>trees</heading>
+<adress>ahsanabad</adress>
+<message>It is a long established fact that a reader 
+will be distracted by the readable 
+content of a page 
+when looking at its layout. The point of using Lorem Ipsum is 
+that it has a more-or-less no</message>
+</note>
+
+
+<note>
+<to>mahad</to>
+<from>ayan</from>
+<heading>wood</heading>
+<adress>malir</adress>
+<message>It is a long established fact that a reader 
+will be distracted by the readable 
+content of a page 
+when looking at its layout. The point of using Lorem Ipsum is 
+that it has a more-or-less no</message>
+</note>
+
+<note>
+<to>mahad</to>
+<from>nafees</from>
+<heading>house</heading>
+<adress>water pump</adress>
+<message>It is a long established fact that a reader 
+will be distracted by the readable 
+content of a page 
+when looking at its layout. The point of using Lorem Ipsum is 
+that it has a more-or-less no</message>
+</note>
+
+<note>
+<to>mahad</to>
+<from>huzafa abbas</from>
+<heading>reading</heading>
+<adress>gulshan maymar</adress>
+<message>It is a long established fact that a reader 
+will be distracted by the readable 
+content of a page 
+when looking at its layout. The point of using Lorem Ipsum is 
+that it has a more-or-less no</message>
+</note>
+
+<note>
+<to>mahad</to>
+<from>muhammad al8i</from>
+<heading>bikes</heading>
+<adress>r-430 a</adress>
+<message>It is a long established fact that a reader 
+will be distracted by the readable 
+content of a page 
+when looking at its layout. The point of using Lorem Ipsum is 
+that it has a more-or-less no</message>
+</note>
+
+<note>
+<to>mahad</to>
+<from>daniyal khan</from>
+<heading>ghost story</heading>
+<adress>tariq</adress>
+<message>It is a long established fact that a reader 
+will be distracted by the readable 
+content of a page 
+when looking at its layout. The point of using Lorem Ipsum is 
+that it has a more-or-less no</message>
+</note>
+
+<note>
+<to>mahad</to>
+<from>durran khan</from>
+<heading>sun-flower</heading>
+<adress>ahsanabad</adress>
+<message>It is a long established fact that a reader 
+will be distracted by the readable 
+content of a page 
+when looking at its layout. The point of using Lorem Ipsum is 
+that it has a more-or-less no</message>
+</note>
+
+<note>
+<to>mahad</to>
+<from>salamuddin</from>
+<heading>lorem ipsum</heading>
+<adress>salfia society</adress>
+<message>It is a long established fact that a reader 
+will be distracted by the readable 
+content of a page 
+when looking at its layout. The point of using Lorem Ipsum is 
+that it has a more-or-less no</message>
+</note>
+</notes>
+
+</root> 
